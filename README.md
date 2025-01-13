@@ -7,6 +7,7 @@ This repository contains a project for statistical data analysis using Python. I
 ```
 statistical-data-analysis/
 │
+├── data/
 ├── diagrams/              # Contains generated diagram images
 ├── data_loading.py        # Script to load data from files
 ├── draw_diagram.py        # Script to draw diagrams (histograms, plots)
@@ -122,10 +123,5 @@ After running the analysis, the generated diagrams will be saved in the `diagram
 ---
 
 ## 🧑‍💻 Contributors
-- **Project Lead:** [Your Name]
+- **Project Lead:** [Ali Mahdi]
 - **Tools Used:** Python, Matplotlib, NumPy
-
----
-
-## 📝 License
-This project is licensed under the MIT License.
